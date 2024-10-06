@@ -8,7 +8,7 @@
 # Licence : Ce programme est un logiciel libre : vous pouvez le redistribuer selon les termes de la Licence Publique Générale GNU v3
 ##########################################
 
-
+# pip install opencv-python streamlit pandas numpy deepface XlsxWriter altair
 
 import os
 import cv2
